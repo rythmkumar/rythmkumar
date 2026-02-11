@@ -29,8 +29,8 @@ I am a passionate Data Science student dedicated to uncovering insights within d
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rythmkumar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rythmkumar&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[rythmkumar]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[rythmkumar]&layout=compact&theme=radical)
 
 ---
 
