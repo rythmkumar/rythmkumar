@@ -23,8 +23,8 @@ I am a Data Science student specializing in **Natural Language Processing (NLP)*
 
 ### 📊 GitHub Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rythmkumar&show_icons=true&theme=tokyonight&hide_border=true" alt="Rythm's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rythmkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rythmkumar&show_icons=true&theme=tokyonight&hide_border=true" alt="Rythm's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rythmkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ---
