@@ -16,7 +16,6 @@ I am a Data Science student specializing in **Natural Language Processing (NLP)*
 
 ### 🔭 Currently Working On
 * 🤖 **NLP & LLMs:** Deep diving into transformer architectures and fine-tuning strategies.
-* ⛓️ **GenAI:** Building RAG (Retrieval-Augmented Generation) applications using **LangChain**.
 * 📊 **Analysis:** Crafting data-driven narratives with **Tidyverse** and **Matplotlib**.
 
 ---
