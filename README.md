@@ -30,4 +30,5 @@ I am a Data Science student specializing in **Natural Language Processing (NLP)*
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/rythm-kumar](https://www.linkedin.com/in/rythm-kumar-277509256/)
+* **Medium:** [medium.com/@rythmkumar232](https://medium.com/@rythmkumar232)
 * **Portfolio:** *Coming Soon*
